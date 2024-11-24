@@ -5,9 +5,11 @@
   "scripts": {},
   "private": true,
   "dependencies": {
-    "@monodon/rust": "2.1.1"
+    "@monodon/rust": "2.1.1",
+    "@nativescript/nx": "^20.0.4"
   },
   "devDependencies": {
+    "@berenddeboer/nx-sst": "0.13.5",
     "@nx/workspace": "20.1.3",
     "nx": "20.1.3"
   }
